@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Movement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Generator.cs">
     <Files>
-      <File FileName="Assets\Movement.cs" Line="180" Column="19" />
+      <File FileName="Assets\Scripts\Movement.cs" Line="54" Column="55" />
+      <File FileName="Assets\Generator.cs" Line="13" Column="9" />
+      <File FileName="Assets\Scenario.cs" Line="7" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
