@@ -14,9 +14,12 @@ public class Generator {
 	[XmlAttribute("murderer")]
 	public string Murderer;
 
-	public void Write(string path) {
+	public void Generate() {
 		int gen = Random.Range (0, 6);
 		Murderer = Townspeople [gen];
+	}
+
+	public void Write(string path) {
 		var serializer = new XmlSerializer (typeof(Generator));
 		var stream = new FileStream(path, FileMode.Create);
 		serializer.Serialize(stream, this);

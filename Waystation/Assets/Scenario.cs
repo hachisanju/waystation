@@ -8,8 +8,7 @@ public class Scenario : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-		scenarioGenerator.Murderer = "test";
+		scenarioGenerator.Generate ();
 		scenarioGenerator.Write (Path.Combine (Application.persistentDataPath, "save1.xml"));
 	}
 	
