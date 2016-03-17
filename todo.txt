@@ -1,0 +1,6 @@
+Setup stuff:
+-Finish the scenario Generator.
+--Either encrypt the .xml saves or just xor the data that goes into em.
+	(Trying to stop casual cheaters first, hardcore hackers next)
+
+			-Thomas
