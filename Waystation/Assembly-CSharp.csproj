@@ -48,7 +48,6 @@
      <Compile Include="Assets\Generator.cs" />
      <Compile Include="Assets\Scenario.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
-     <None Include="Assets\Project\save1.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>F:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
